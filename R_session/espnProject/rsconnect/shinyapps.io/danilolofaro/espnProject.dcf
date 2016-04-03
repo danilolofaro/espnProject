@@ -1,0 +1,10 @@
+name: espnProject
+account: danilolofaro
+server: shinyapps.io
+appId: 91942
+bundleId: 409458
+url: https://danilolofaro.shinyapps.io/espnProject/
+when: 1459710635.57614
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: deploy.R|esp.rda|espnProject.md|espnProject.Rpres|README.md|data/espn_prevalence_06-13.csv|espnProject-figure/unnamed-chunk-2-1.png

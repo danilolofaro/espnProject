@@ -4,7 +4,7 @@ library(shiny)
 
 shinyUI(
   (pageWithSidebar(  
-      headerPanel("Example plot"),
+      headerPanel("ESPN RRT Prevalence 2006-2013"),
       sidebarPanel(
         sliderInput('year', 'Year:',min=2006, max=2013, value=2013, format="####")
       ),
